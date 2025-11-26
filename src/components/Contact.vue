@@ -2,7 +2,7 @@
 
   <section id="contato" class="bg-gradient-to-b from-gray-100 to-gray-200 py-20">
     <div class="container mx-auto px-6">
-      <h2 class="text-4xl font-bold text-blue-900 mb-4 text-center">Envie o seu currículo</h2>
+      <h2 class="text-5xl font-bold text-blue-900 mb-4 text-center">Envie o seu currículo</h2>
       <p class="text-center text-gray-600 mb-12 max-w-2xl mx-auto">Venha construir o futuro com a gente!</p>
 
       <!-- Main Contact Cards -->
@@ -10,7 +10,7 @@
         <!-- Location Card -->
 
         <CardContact title="Gerente de Unidade" />
-        <CardContact title="Recepção " />
+        <CardContact title="Recepção (Foco em Vendas)" />
         <CardContact title="Supervisor de Cobrança" />
 
       </div>
